@@ -11,11 +11,7 @@ Sou um desenvolvedor Front-end brasileiro de 14 anos, apaixonado por tecnologia,
 ### 🚀 Em busca de evoluir sempre
 Gosto de aprender coisas novas, construir projetos e compartilhar meu progresso com a comunidade. Sigo estudando diariamente para me tornar um desenvolvedor completo.
 
-📫 **Vamos conectar?**  
-Sinta-se à vontade para explorar meus repositórios e me chamar para conversar sobre projetos ou colaborações!
-
-
-
+ 
 <div>
   <a href="https://github.com/Renanveigga">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renanveigga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
