@@ -16,8 +16,8 @@ Gosto de aprender coisas novas, construir projetos e compartilhar meu progresso 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renanveigga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renanveigga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renanveigga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renanveigga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
