@@ -26,6 +26,7 @@ Estou constantemente me aprimorando e explorando novas ferramentas e frameworks.
 - Melhorar minhas habilidades em **UX/UI design**.
 - Aprofundar-me em **acessibilidade web** e boas práticas de SEO.
 
+> “Se você quer chegar onde a maioria não chega, faça o que a maioria não faz.” - Bill Gates
 
 ###
 
