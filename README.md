@@ -11,6 +11,20 @@ Sou um desenvolvedor Front-end brasileiro de 14 anos, apaixonado por tecnologia,
 ### 🚀 Em busca de evoluir sempre
 Gosto de aprender coisas novas, construir projetos e compartilhar meu progresso com a comunidade. Sigo estudando diariamente para me tornar um desenvolvedor completo.
 
+### 🛠️ O que eu faço:
+
+- Desenvolvo interfaces responsivas e acessíveis para a web.
+- Contribuo para projetos open-source e aprendo com a comunidade.
+- Crio soluções criativas e escaláveis utilizando tecnologias modernas.
+- Experiência com desenvolvimento ágil e metodologias como Scrum.
+
+### 🌱 Sempre em Aprendizado:
+
+Estou constantemente me aprimorando e explorando novas ferramentas e frameworks. Atualmente, estou focado em:
+
+- Aprender mais sobre **TypeScript** e **Next.js**.
+- Melhorar minhas habilidades em **UX/UI design**.
+- Aprofundar-me em **acessibilidade web** e boas práticas de SEO.
 
 
 ###
