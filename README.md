@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou um jovem desenvolvedor Front-end
 
-Sou um desenvolvedor Front-end brasileiro de 14 anos, apaixonado por tecnologia, design e tudo que envolve o mundo da programação. Atualmente, estou me aprofundando em **Node.js** para expandir meus conhecimentos para o Back-end.
+Sou um desenvolvedor Front-end brasileiro de 15 anos, apaixonado por tecnologia, design e tudo que envolve o mundo da programação. Atualmente, estou me aprofundando em **Node.js** para expandir meus conhecimentos para o Back-end.
 
 ### 💻 Tecnologias que uso no dia a dia
 - HTML, CSS e JavaScript
